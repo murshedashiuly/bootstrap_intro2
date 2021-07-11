@@ -1,0 +1,53 @@
+.header, .hero, .body, .bar, .footer, .flex{
+	margin-bottom:10px;
+	background-color:#ffb7c9;
+	
+}
+.box{
+	margin:10px 0;
+	min-height:80px;
+	font-size:50px;
+	color:#000000;
+	background-color:#91d3eb;
+}
+.red{
+	background-color:#98FF98;
+}
+.lime{
+	background-color:#20B2AA;
+}
+h1{
+	text-align:center;
+}
+.flex1{
+	min-height:40px;
+	margin-bottom:10px;
+	background-color:#20B2AA;
+}
+.box2{
+	margin:10px 0;
+	font-size:20px;
+	color:#000000;
+	background-color:#91d3eb;
+}
+.flex3{
+	background-color:#e6e2eb;
+}
+.box3{
+	background-color:#d1c9da;
+}
+.box4{
+	min-height:80px;
+	text-align:center;
+	background-color:#d1c9da;
+}
+.round{
+	width:150px;
+	height:100px;
+}
+.pad{
+	padding:40px;
+}
+.break{
+	border-bottom:10px solid white;
+}
